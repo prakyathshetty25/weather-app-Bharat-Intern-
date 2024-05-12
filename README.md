@@ -1,2 +1,2 @@
-# weather-app-Bharat-Intern-
-weather app(Bharat Intern)
+# weather-app
+weather app
